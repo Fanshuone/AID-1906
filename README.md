@@ -6,3 +6,4 @@
 ## 正则表达式
 ## RE
 ## myaql
+    python 不行
